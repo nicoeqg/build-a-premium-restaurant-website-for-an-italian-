@@ -1,2 +1,3 @@
-# build-a-premium-restaurant-website-for-an-italian-
-Landing page generated with LandMake
+# Build a premium restaurant website for an Italian restaurant...
+
+Landing page generated with [LandMake](https://landmake.dev)
